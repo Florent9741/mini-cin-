@@ -15,10 +15,11 @@
         @yield('main')
     </main>
 
+
     <footer class="text-gray-600 body-font">
         @include('includes.footer')
     </footer>
 
 </body>
 
-</html>l
+</html>
